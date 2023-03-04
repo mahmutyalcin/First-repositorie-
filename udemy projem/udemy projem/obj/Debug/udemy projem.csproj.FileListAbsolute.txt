@@ -1,0 +1,5 @@
+C:\Users\MAHMUT\Desktop\udemy projem csharp\udemy projem\udemy projem\bin\Debug\udemy projem.exe
+C:\Users\MAHMUT\Desktop\udemy projem csharp\udemy projem\udemy projem\bin\Debug\udemy projem.pdb
+C:\Users\MAHMUT\Desktop\udemy projem csharp\udemy projem\udemy projem\obj\Debug\udemy projem.csprojResolveAssemblyReference.cache
+C:\Users\MAHMUT\Desktop\udemy projem csharp\udemy projem\udemy projem\obj\Debug\udemy projem.exe
+C:\Users\MAHMUT\Desktop\udemy projem csharp\udemy projem\udemy projem\obj\Debug\udemy projem.pdb
